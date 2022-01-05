@@ -3,6 +3,7 @@
 This repository is for People Analytics Project for UNDP & UNICEF's staff. 
 
 ●	Aggregated multiple UNDP & UNICEF employee datasets and identified vital patterns and characteristics of top performers through making graphs and testing hypotheses to support achieving efficient talent management
+
 ●	Built staff performance score prediction model with 86% accuracy by improving Random Forest model’s accuracy by 50% through utilizing feature engineering, optimizing parameters, and addressing imbalanced data
 
 See the result here:
