@@ -6,8 +6,8 @@ This repository is for People Analytics Project for UNDP & UNICEF's staff.
 
 ●	Built staff performance score prediction model with 86% accuracy by improving Random Forest model’s accuracy by 50% through utilizing feature engineering, optimizing parameters, and addressing imbalanced data
 
-See the result here:
-https://github.com/oliviahs/People_Analytics_for_UN/blob/main/PPT.pdf
+See the result here: https://github.com/oliviahs/People_Analytics_for_UN/blob/main/PPT_.pdf
+
 
 - Data Cleaning: https://github.com/oliviahs/People_Analytics_for_UN/blob/main/DataCleaning.ipynb
 - Exploratory Data Analysis: https://github.com/oliviahs/People_Analytics_for_UN/blob/main/EDA_HypothesisTesting.ipynb
