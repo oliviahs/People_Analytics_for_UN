@@ -1,7 +1,14 @@
-# People_Analytics_for_UN
+# UNDP & UNICEF Staff Management Strategy with Performance Evaluation
 
-This repository is about People Analytics Project for UNDP & UNICEF's staffs. 
+This repository is for People Analytics Project for UNDP & UNICEF's staff. 
 
-The purpose of the project is to better support UN staffs' career management, so that the staff members can further acquire new skills, knowledge, and experience within and across departments, functions and duty station.  
+●	Aggregated multiple UNDP & UNICEF employee datasets and identified vital patterns and characteristics of top performers through making graphs and testing hypotheses to support achieving efficient talent management
 
-It also aims to analyze whether the staff members have equal opportunities for service across the United Nations and whether there is a fair sharing of the burden of service in difficult duty stations.
+●	Built staff performance score prediction model with 86% accuracy by improving Random Forest model’s accuracy by 50% through utilizing feature engineering, optimizing parameters, and addressing imbalanced data
+
+See the result here:
+https://github.com/oliviahs/People_Analytics_for_UN/blob/main/PPT.pdf
+
+- Data Cleaning: https://github.com/oliviahs/People_Analytics_for_UN/blob/main/DataCleaning.ipynb
+- Exploratory Data Analysis: https://github.com/oliviahs/People_Analytics_for_UN/blob/main/EDA_HypothesisTesting.ipynb
+- Modeling and Evaluation: https://github.com/oliviahs/People_Analytics_for_UN/blob/main/Modeling_Evaluation.ipynb
